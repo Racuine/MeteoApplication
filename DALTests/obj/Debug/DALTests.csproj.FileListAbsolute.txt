@@ -1,0 +1,16 @@
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\DALTests.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\DALTests.pdb
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\DAL.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\DAL.pdb
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\obj\Debug\DALTests.csprojResolveAssemblyReference.cache
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\obj\Debug\DALTests.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\obj\Debug\DALTests.pdb
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\EntityFramework.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\EntityFramework.xml
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\DALTests.dll.config
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\milou_000\Desktop\WebApplication1\DALTests\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
